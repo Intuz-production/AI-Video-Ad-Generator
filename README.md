@@ -79,7 +79,7 @@ Using Google’s state-of-the-art Veo 3 model, this workflow manages the entire 
 
 ## Sample Videos
 
-Add sample video files or links here after you upload them to the repo.
+[View sample videos on Google Drive](https://drive.google.com/drive/folders/1brGvAKJB4PY_CClqqRVh31Kr8fY6cTLs)
 
 ## FAQ
 
